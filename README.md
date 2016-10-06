@@ -23,7 +23,7 @@ Características
 Recursos
 --------
 
-### Centros de Acceso a la Justicia
+### Centros de Acceso a la Justicia (CAJ)
 
 -   **Nombre:** centros-acceso-justicia-activos.csv
 

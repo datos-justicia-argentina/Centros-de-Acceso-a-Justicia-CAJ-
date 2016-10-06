@@ -20,14 +20,14 @@ Características
 
 -   **Frecuencia de Actualización:** Trimestral
 
-Recursos
---------
+Recursos disponibles
+--------------------
 
 ### Centros de Acceso a la Justicia (CAJ)
 
--   **Nombre:** centros-acceso-justicia-activos.csv
+-   **Nombre del archivo:** centros-acceso-justicia-activos.csv
 
--   **Descripción:** Centros de Acceso a la Justicia activos.
+-   **Descripción del contenido:** Centros de Acceso a la Justicia activos.
 
 -   **Formato:** CSV delimitados por coma
 

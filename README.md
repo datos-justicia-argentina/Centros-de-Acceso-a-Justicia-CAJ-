@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Rango temporal:** CAJ activos al momento de la publicación
 
-####Campos del recurso
+###Campos del recurso
 
 -   **oficina (string):** Nombre del CAJ
 

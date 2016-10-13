@@ -23,7 +23,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Centros de Acceso a la Justicia (CAJ)
+###Centros de Acceso a la Justicia (CAJ)
 
 -   **Nombre del archivo:** centros-acceso-justicia-activos.csv
 
@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Rango temporal:** CAJ activos al momento de la publicación
 
-#### Campos del recurso
+####Campos del recurso
 
 -   **oficina (string):** Nombre del CAJ
 

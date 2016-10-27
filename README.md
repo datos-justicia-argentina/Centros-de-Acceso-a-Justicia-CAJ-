@@ -14,7 +14,7 @@ Características
 
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
 
--   **Responsable:** Dirección Nacional de Acceso a la Justicia
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
 
 -   **Grupo:** Acceso a Justicia
 

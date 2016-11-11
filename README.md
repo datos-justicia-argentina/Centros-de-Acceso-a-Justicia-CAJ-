@@ -37,7 +37,7 @@ Recursos disponibles
 
 -   **oficina (string):** Nombre del CAJ
 
--   **fecha_apertura_desde_2016 (date):** Fecha de la apertura del CAJ. Sólo consignadas las aperturas realizadas desde 2016
+-   **fecha_apertura (date):** Fecha de la apertura del CAJ. Sólo consignadas las aperturas realizadas desde 2016
 
 -   **provincia (string):** Provincia donde está situado el CAJ
 

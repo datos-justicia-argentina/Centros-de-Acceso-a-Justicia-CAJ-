@@ -6,7 +6,7 @@ Este conjunto de datos contiene la información correspondiente a los Centros de
 Características
 ---------------
 
--   **Fecha de Publicación:** 06/10/2016
+-   **Fecha de Primera Publicación:** 06/10/2016
 
 -   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, casas de justicia, justicia, vulnerable
 

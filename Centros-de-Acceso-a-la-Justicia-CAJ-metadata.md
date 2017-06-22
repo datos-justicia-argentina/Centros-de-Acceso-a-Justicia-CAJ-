@@ -29,9 +29,9 @@ Recursos disponibles
 
 -   **Descripción del contenido:** Centros de Acceso a la Justicia activos
 
--   **Formato:** CSV delimitados por coma
+-   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
--   **Rango temporal:** CAJ activos al momento de la publicación
+-   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -47,7 +47,7 @@ Recursos disponibles
 
 -   **teléfono (string):** Número de teléfono del CAJ
 
--   **responsable (string):** Nombre del responsable del CAJ**.**
+-   **responsable (string):** Nombre del responsable del CAJ
 
 -   **tipo_locacion (string):** Tipo de espacio en el cual funciona el CAJ
 

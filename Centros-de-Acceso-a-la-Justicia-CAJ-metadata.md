@@ -27,29 +27,29 @@ Recursos disponibles
 
 -   **Nombre del archivo:** centros-acceso-justicia-activos.csv
 
--   **Descripción del contenido:** Centros de Acceso a la Justicia activos
+-   **Descripción del contenido:** centros de Acceso a la Justicia activos
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
--   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **oficina (string):** Nombre del CAJ
+-   **oficina (string):** nombre del CAJ
 
--   **fecha_apertura (date):** Fecha de la apertura del CAJ. Sólo consignadas las aperturas realizadas desde 2016
+-   **fecha_apertura (date):** fecha de la apertura del CAJ. Sólo consignadas las aperturas realizadas desde 2016
 
--   **provincia (string):** Provincia donde está situado el CAJ
+-   **provincia (string):** provincia donde está situado el CAJ
 
--   **localidad (int):** Localidad donde está situado el CAJ
+-   **localidad (int):** localidad donde está situado el CAJ
 
--   **domicilio (string):** Domicilio del CAJ
+-   **domicilio (string):** domicilio del CAJ
 
--   **teléfono (string):** Número de teléfono del CAJ
+-   **teléfono (string):** número de teléfono del CAJ
 
--   **responsable (string):** Nombre del responsable del CAJ
+-   **responsable (string):** nombre del responsable del CAJ
 
--   **tipo_locacion (string):** Tipo de espacio en el cual funciona el CAJ
+-   **tipo_locacion (string):** tipo de espacio en el cual funciona el CAJ
 
 
 

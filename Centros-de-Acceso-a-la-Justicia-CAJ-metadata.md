@@ -18,7 +18,7 @@ Características
 
 -   **Grupo:** Acceso a Justicia
 
--   **Frecuencia de Actualización:** Trimestralmente
+-   **Frecuencia de Actualización:** Mensualmente
 
 Recursos disponibles
 --------------------
@@ -27,7 +27,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** centros-acceso-justicia-activos.csv
 
--   **Descripción del contenido:** centros de Acceso a la Justicia activos
+-   **Descripción del contenido:** Centros de Acceso a la Justicia activos
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 

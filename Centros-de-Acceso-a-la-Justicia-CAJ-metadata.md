@@ -3,12 +3,14 @@ Centros de Acceso a la Justicia -CAJ-
 
 Este conjunto de datos contiene la información correspondiente a los Centros de Acceso a la Justicia –CAJ- que están activos. Los CAJ tienen por objetivo promover y facilitar el acceso a la justicia de los sectores más vulnerables, a través de asesoramiento y atención profesional, ya sea jurídico o psicosocial.
 
+http://datos.jus.gob.ar/dataset/centros-de-acceso-a-la-justicia
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 06/10/2016
 
--   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, casas de justicia, justicia, vulnerable
+-   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, casas de justicia, justicia, vulnerables
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** centros-acceso-justicia-activos.csv
 
--   **Descripción del contenido:** Centros de Acceso a la Justicia activos
+-   **Descripción del contenido:** detalle de los Centros de Acceso a la Justicia activos
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 

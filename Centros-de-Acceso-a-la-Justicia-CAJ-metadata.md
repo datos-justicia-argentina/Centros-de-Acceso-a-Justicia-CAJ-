@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Centros de Acceso a la Justicia publicados hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 

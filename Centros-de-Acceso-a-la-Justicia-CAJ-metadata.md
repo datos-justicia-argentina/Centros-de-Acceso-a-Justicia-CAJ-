@@ -53,6 +53,8 @@ Recursos disponibles
 
 -   **tipo_locacion (string):** tipo de espacio en el cual funciona el CAJ
 
+-   **provincia_indec_id (string):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC
+
 Notas
 ------
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.

@@ -53,7 +53,7 @@ Recursos disponibles
 
 -   **tipo_locacion (string):** tipo de espacio en el cual funciona el CAJ
 
--   **provincia_indec_id (string):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC
+-   **provincia_id (string):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
 Notas
 ------

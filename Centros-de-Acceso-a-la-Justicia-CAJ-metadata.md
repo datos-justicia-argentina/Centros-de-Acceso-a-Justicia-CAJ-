@@ -41,9 +41,9 @@ Recursos disponibles
 
 -   **fecha_apertura (date):** fecha de la apertura del CAJ. Sólo consignadas las aperturas realizadas desde 2016
 
--   **provincia (string):** provincia donde está situado el CAJ
+-   **provincia_nombre (string):** provincia donde está situado el CAJ
 
--   **localidad (int):** localidad donde está situado el CAJ
+-   **localidad_nombre (string):** localidad donde está situado el CAJ
 
 -   **domicilio (string):** domicilio del CAJ
 
@@ -54,6 +54,8 @@ Recursos disponibles
 -   **tipo_locacion (string):** tipo de espacio en el cual funciona el CAJ
 
 -   **provincia_id (string):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo provincia_indec_id)
+
+-   **localidad_id (string):** código de localidad donde está situado el CAJ, según la codificación de provincia implementada por INDEC 
 
 Notas
 ------

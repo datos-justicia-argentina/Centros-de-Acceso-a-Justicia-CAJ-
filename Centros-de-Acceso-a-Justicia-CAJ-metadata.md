@@ -1,16 +1,16 @@
-Centros de Acceso a la Justicia -CAJ-
+Centros de Acceso a Justicia -CAJ-
 =====================================
 
-Este conjunto de datos contiene la información correspondiente a los Centros de Acceso a la Justicia –CAJ- que están activos. Los CAJ tienen por objetivo promover y facilitar el acceso a la justicia de los sectores más vulnerables, a través de asesoramiento y atención profesional, ya sea jurídico o psicosocial.
+Este conjunto de datos contiene la información correspondiente a los Centros de Acceso a Justicia (CAJ) que se encuentran activos. Los CAJ tienen por objetivo promover y facilitar el acceso a la justicia de los sectores más vulnerables de la población, a través del asesoramiento y atención profesional, tanto jurídico como psicosocial.
 
-http://datos.jus.gob.ar/dataset/centros-de-acceso-a-la-justicia
+http://datos.jus.gob.ar/dataset/centros-de-acceso-a-justicia
 
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 06/10/2016
 
--   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, casas de justicia, justicia, vulnerables
+-   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, patrocinio jurídico, casas de justicia, justicia, vulnerables
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
 
@@ -25,15 +25,15 @@ Características
 Recursos disponibles
 --------------------
 
-### Centros de Acceso a la Justicia (CAJ)
+### Centros de Acceso a Justicia (CAJ)
 
 -   **Nombre del archivo:** centros-acceso-justicia-activos.csv
 
--   **Descripción del contenido:** detalle de los Centros de Acceso a la Justicia activos
+-   **Descripción del contenido:** detalle de los Centros de Acceso a Justicia activos
 
 -   **Formato:** CSV delimitados por comas, codificado en UTF-8
 
--   **Rango temporal:** Centros de Acceso a la Justicia activos desde el año 1990 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Centros de Acceso a Justicia activos desde el año 1990 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
